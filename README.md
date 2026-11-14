@@ -1,2 +1,3 @@
-# firstproject_demo
+# firstproject-demo
 This is my first git repository.
+author-Sanjay mandal
